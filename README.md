@@ -57,7 +57,7 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 ## Acknowledgments
 
 - Inspired by the TV show Kaun Banega Crorepati
-- Created by [Your Name](https://github.com/sanchitc05)
+- Created by [Sanchit Chauhan](https://github.com/sanchitc05)
 
 ---
 
